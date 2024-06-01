@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>旧辞的开发日志</title>
+  
+  <subtitle>人而不学,其犹正墙面而立</subtitle>
+  <link href="https://surepi.cn/atom.xml" rel="self"/>
+  
+  <link href="https://surepi.cn/"/>
+  <updated>2024-01-12T09:00:08.344Z</updated>
+  <id>https://surepi.cn/</id>
+  
+  <author>
+    <name>旧 辞</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Liunx使用密钥登录</title>
+    <link href="https://surepi.cn/posts/335.html"/>
+    <id>https://surepi.cn/posts/335.html</id>
+    <published>2024-01-12T09:00:08.344Z</published>
+    <updated>2024-01-12T09:00:08.344Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;1&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>兰空图床使用Cloudflaer R2存储桶 </title>
+    <link href="https://surepi.cn/posts/16.html"/>
+    <id>https://surepi.cn/posts/16.html</id>
+    <published>2023-12-07T06:01:02.875Z</published>
+    <updated>2024-05-24T05:36:09.535Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;继上篇文章使用虚拟主机搭建兰空图床后 又研究了怎么对接R2 以及接受大佬给的建议将R2关闭了ipv6访问并设置了WAF规则 防止被刷&lt;/p&gt;
+&lt;h1 id=&quot;登录Cloudflaer-进入R2-并创建存储桶&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>使用DirectAdmin虚拟主机搭建兰空图床</title>
+    <link href="https://surepi.cn/posts/15.html"/>
+    <id>https://surepi.cn/posts/15.html</id>
+    <published>2023-12-05T12:59:19.330Z</published>
+    <updated>2024-05-24T05:36:09.535Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;前言：之前看着价格便宜就冲了一台MYW的永久虚拟主机  本来是放了一个静态站的后面公司备案了就迁移回来国内的服务器了 本着不浪费的原则刚好又使用hexo写博 需要一个图床来提供图片的分流</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>利用Qexo项目实现hexo博客Web端写作</title>
+    <link href="https://surepi.cn/posts/54.html"/>
+    <id>https://surepi.cn/posts/54.html</id>
+    <published>2023-11-09T03:56:27.303Z</published>
+    <updated>2024-05-24T05:36:09.535Z</updated>
+    
+    
+    
+    
+    
+    <category term="hexo" scheme="https://surepi.cn/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CloudFlare自选IP加速网站</title>
+    <link href="https://surepi.cn/posts/11193.html"/>
+    <id>https://surepi.cn/posts/11193.html</id>
+    <published>2023-10-12T10:21:06.000Z</published>
+    <updated>2024-05-24T05:36:09.535Z</updated>
+    
+    
+    <summary type="html">CloudFlare自选IP加速网站</summary>
+    
+    
+    
+    <category term="Cloudflare" scheme="https://surepi.cn/categories/Cloudflare/"/>
+    
+    
+    <category term="Cloudflare" scheme="https://surepi.cn/tags/Cloudflare/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用腾讯云开发搭建Hexo博客</title>
+    <link href="https://surepi.cn/posts/8804.html"/>
+    <id>https://surepi.cn/posts/8804.html</id>
+    <published>2023-10-10T14:11:26.000Z</published>
+    <updated>2024-05-24T05:36:09.535Z</updated>
+    
+    
+    <summary type="html">Github+腾讯云开发+Hexo博客</summary>
+    
+    
+    
+    <category term="hexo" scheme="https://surepi.cn/categories/hexo/"/>
+    
+    
+    <category term="hexo" scheme="https://surepi.cn/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Cloudflare Warp 解决青龙面板黑IP的问题</title>
+    <link href="https://surepi.cn/posts/29088.html"/>
+    <id>https://surepi.cn/posts/29088.html</id>
+    <published>2023-10-10T06:21:06.000Z</published>
+    <updated>2024-05-24T05:36:09.535Z</updated>
+    
+    
+    <summary type="html">Cloudflare Warp 解决青龙面板黑IP的问题</summary>
+    
+    
+    
+    <category term="Cloudflare" scheme="https://surepi.cn/categories/Cloudflare/"/>
+    
+    
+    <category term="Cloudflare" scheme="https://surepi.cn/tags/Cloudflare/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Cloudflare使用CNAME接入自定义域名</title>
+    <link href="https://surepi.cn/posts/8803.html"/>
+    <id>https://surepi.cn/posts/8803.html</id>
+    <published>2023-10-09T10:27:06.000Z</published>
+    <updated>2024-05-24T05:36:09.535Z</updated>
+    
+    
+    <summary type="html">Cloudflare SaaS 使用CNAME接入域名实操记录</summary>
+    
+    
+    
+    <category term="Cloudflare" scheme="https://surepi.cn/categories/Cloudflare/"/>
+    
+    
+    <category term="Cloudflare" scheme="https://surepi.cn/tags/Cloudflare/"/>
+    
+  </entry>
+  
+</feed>
